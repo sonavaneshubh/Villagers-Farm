@@ -1,0 +1,6 @@
+{
+  "name": "Villagers Farm – Premium Edible Oil Brand",
+  "description": "Premium edible oil brand connecting farmers directly with homes. From seed sourcing to in-house bottling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
